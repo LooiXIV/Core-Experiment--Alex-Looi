@@ -61,7 +61,7 @@ This repository contains all data, R scripts, and figures used in the Core-Exper
 		xii) Nitrogen Input.csv: mean daily nitrogen concentrations in micromoles/liter.
 		xiii) NP ratio plot.csv: csv of NP ratio used for plotting in R. includes daily means and std.
 		xiv) Phosphorus Input.csv: mean daily phosphorus concentrations in micromoles/liter.
-	c) Stable Isotop Data: Folder with all data acquired and derived from Prof. Mark Teese's mass
+	c) Stable Isotope Data: Folder with all data acquired and derived from Prof. Mark Teese's mass
 		spectrometer. Nutrient concentration was obtained from this data.
 		i) Alex LOOI 2014 Results.xlsx: raw data from Mark Teese's lab.
 		ii) AlgaeStableIsotopes.csv: csv version of of the first "Results" tab of the "Alex LOOI
